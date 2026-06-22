@@ -1,5 +1,6 @@
-name=input("enter the name=")
-if name=="rishav":
-    print("welcome")
+name = input("Enter the name: ")
+
+if name == "rishav":
+    print("Welcome")
 else:
     print("Bye")
